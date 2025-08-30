@@ -1,2 +1,2 @@
 # salary prediction
-** linear **
+** salary prediction by linear regression **
