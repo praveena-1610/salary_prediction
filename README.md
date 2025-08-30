@@ -1,1 +1,2 @@
-# salary_prediction
+# salary prediction
+** linear **
